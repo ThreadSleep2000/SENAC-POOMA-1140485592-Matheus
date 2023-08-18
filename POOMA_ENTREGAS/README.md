@@ -1,4 +1,4 @@
-# PWMB_ENTREGAS
+# POOMA_ENTREGAS
 
 Entrega das atividades da disciplina de POO - 2023/3<br>
 
